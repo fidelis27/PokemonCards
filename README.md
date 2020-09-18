@@ -37,7 +37,7 @@ Is an application developed in react that consumes the API of the site https://p
 In the project, I used two APIs, a first to consume data and a second to consume images. in the first API the images had low resolution so looking for another solution.
 they are :
 https://pokeapi.co/
-https://assets.pokemon.com/assets/cms2/img/pokedex/full/1.png`
+https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png
 
 
 <h1 align="center">
