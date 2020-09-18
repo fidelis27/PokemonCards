@@ -22,14 +22,14 @@
 </p>
 
 <p align="center">
-  <a href="#-Pokemon">Next Level Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Pokemon">My Pokemon cards</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-how-to-contribute">How to contribute</a>&nbsp;|
 
 </p>
 
-## :Pokemon: What's My pokemon cards?
+## Pokemon What's My pokemon cards?
 
 Is an application developed in react that consumes the API of the site https://pokeapi.co/. Application lists all pokemon through pagination.
 
@@ -40,14 +40,15 @@ Is an application developed in react that consumes the API of the site https://p
 </h1>
 
 
-## :Technologies
+## Technologies
 
 This project was developed with the following technologies:
 
 - [Node.js][nodejs]
 - [React][reactjs]
 
-### 💻 Install APP In progress.. :construction:
+## 💻 How to contribute
+### Install APP In progress.. :construction:
 ```bash
 # Clone this repository
 $ git clone https://github.com/fidelis27/PokemonCards.git
