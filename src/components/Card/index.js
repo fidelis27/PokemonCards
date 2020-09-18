@@ -47,9 +47,6 @@ function Card({ pokemon }) {
 
   return (
     <CardContainer colorCard={pokemon.types[0].type.name}>
-      {/* A Imagem da pokeapi tem resolução baixa, sendo assim utilizei outra api para imagems */}
-      {/* <Img src={pokemon.sprites.front_default} alt="" /> */}
-
       <Img src={getUrlImage(pokemon.id)} alt="" />
 
       <SubCard>
