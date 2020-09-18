@@ -8,9 +8,9 @@ function Footer() {
     <Container>
       <footer className="footer">
         <span>
-          Desenvolvido com <FiHeart /> por THIAGO
+          Desenvolvido com <FiHeart /> por
           <strong>
-            <span>FIDELIS </span>
+            <span>THIAGO FIDELIS </span>
           </strong>
         </span>
       </footer>

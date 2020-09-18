@@ -1,7 +1,8 @@
 import styled from 'styled-components';
+import { shade } from 'polished';
 
 export const Container = styled.div`
-  background: black;
+  background: ${shade(0.2, '#ff4236')};
   height: 10vh;
 
   footer {
@@ -13,7 +14,8 @@ export const Container = styled.div`
     span {
       padding: 10px;
       svg {
-        color: red;
+        margin: 0 5px;
+        color: #fff;
       }
     }
   }
