@@ -29,7 +29,8 @@
 
 </p>
 
-## Pokemon What's My pokemon cards?
+## Pokemon
+### What's My pokemon cards?
 
 Is an application developed in react that consumes the API of the site https://pokeapi.co/. Application lists all pokemon through pagination.
 
@@ -47,7 +48,7 @@ This project was developed with the following technologies:
 - [Node.js][nodejs]
 - [React][reactjs]
 
-## 💻 How to contribute
+## 💻 How to use
 ### Install APP In progress.. :construction:
 ```bash
 # Clone this repository
